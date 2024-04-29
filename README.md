@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com análise de dados.
 - 🌱 Sou estudante de Matemática na Universidade de São Paulo (USP).
 - 👯 Me interesso pelas áreas de ciência de dados e programação.
-- 📗 Estudando HTML | CSS | MySQL | Python | Power BI
+- 📗 Estudando Python | SQL | R | Data Sciense | Power BI
 - 😄 Pronomes: ele / dele
 
 
