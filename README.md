@@ -1,7 +1,7 @@
 ### Olá meu nome é João Sans 👋
 
 - 🔭 Atualmente trabalho com análise de dados.
-- 🌱 Sou estudante de Matemática na Universidade de São Paulo (USP).
+- 🌱 Sou formado em Matemática pela Universidade de São Paulo (USP).
 - 👯 Me interesso pelas áreas de ciência de dados e programação.
 - 📗 Estudando Python | SQL | R | Data Sciense | Power BI
 - 😄 Pronomes: ele / dele
